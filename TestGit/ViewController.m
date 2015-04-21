@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    /* Commit nro 1*/
+    /* Commit nro 2*/
     
     // Do any additional setup after loading the view, typically from a nib.
 }
