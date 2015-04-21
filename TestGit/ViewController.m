@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    /* Commit nro 4 - con github*/
+    /* Commit nro 5 - con github desde consola*/
     
     // Do any additional setup after loading the view, typically from a nib.
 }
